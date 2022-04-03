@@ -27,9 +27,9 @@ Despite urban cities having the largest share of the total number of rides, driv
 
 ### Total Fares By City Type
 
-We also examined the total weekly fares by city type for the first four months (January - April) of 2019 (See Figure 2). An apparent observation is that there is no overlap in total fares among the city types. Overall, urban cities invariably had the highest total fares, ranging from $1,661.68 to $2,470.93, followed by suburban cities, which ranged from $721.60 to $1412.74). Overall, rural cities had the lowest total fares, ranging from $175.14 to $501.24.
+We also examined the total weekly fares by city type for the first four months of 2019 (See Figure 2). An apparent observation is that there is no overlap in total fares among the city types. Overall, urban cities invariably had the highest total fares, ranging from $1,661.68 to $2,470.93, followed by suburban cities, which ranged from $721.60 to $1412.74. Overall, rural cities had the lowest total fares, ranging from $175.14 to $501.24.
 
-All city types experienced a peak increase in total fares during the third week of February 2019. Urban cities, in particular, had multiple peaks in total fares during March 2019; other city types did not experience such drastic fluctuations. By April 2019, total fares trended upward in suburban cities while the other city types encountered the inverse. 
+All city types experienced a peak increase in total fares in late February 2019. Urban cities, in particular, had multiple peaks in total fares during March 2019; other city types did not experience such drastic fluctuations. By April 2019, total fares trended upward in suburban cities while the other city types encountered the inverse. 
 
 ![PyBer_fare_summary](/Analysis/PyBer_fare_summary.png)
 
@@ -39,9 +39,9 @@ All city types experienced a peak increase in total fares during the third week 
 
 Based on the results, below are three business recommendations to the CEO for addressing any disparities among the city types.
 
-1. **Focused recruitment of suburban and rural drivers** - On average, suburban and rural riders pay considerably higher fares than urban riders (about $7 to $10 more per ride). Therefore, PyBer would be more affordable for underserved neighborhoods in urban cities vs. suburban or rural cities. Increasing the number (i.e., supply) of drivers can improve access to PyBer ride-sharing services and lower the distribution of rides per driver, lowering fares.
+1. **Focused recruitment of suburban and rural drivers** - On average, suburban and rural riders pay considerably higher fares than urban riders (about $7 to $10 more per ride). Therefore, PyBer would be more affordable for underserved neighborhoods in urban cities vs. suburban or rural cities. Increasing the number (i.e., supply) of drivers can improve access to PyBer ride-sharing services and lower the distribution of rides per driver, lowering fares per ride.
 
-2. **Increase fares in urban cities** - Overall, urban riders and drivers are interested in ride-sharing services since the urban cities by far provide the largest share of rides, drivers, and fares in PyBer. Therefore, increasing fares can benefit urban drivers (i.e., increase the average fare per driver) and provide additional revenue channeling into ventures where ride-sharing services can be more accessible and economical for underserved neighborhoods.
+2. **Increase fares in urban cities** - Overall, urban riders and drivers are clearly interested in ride-sharing services since the urban cities by far provide the largest share of rides, drivers, and fares in PyBer. Therefore, increasing fares can benefit urban drivers (i.e., increase the average fare per driver) and provide additional revenue channeling into ventures where ride-sharing services can be more accessible and economical for underserved neighborhoods.
 
 3. **Understanding the context of peaks in weekly fares** - All city types experienced a peak increase in total fares during the third week of February 2019. Therefore, further inspection of data relevant to when particular events occurred (i.e., holidays, marketing efforts, etc.) that coincide with peaks in weekly fares may reveal similar characteristics where total fares can be maximized. 
  
